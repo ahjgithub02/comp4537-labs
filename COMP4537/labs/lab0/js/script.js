@@ -3,17 +3,19 @@
  *
  * AI Acknowledgment:
  * ChatGPT (https://chat.openai.com/) was used as a reference tool to assist with
- * understanding object-oriented JavaScript structure, layout logic, and general
- * code documentation practices.
+ * understanding object-oriented JavaScript structure and documentation style.
  *
  * Purpose of AI Use:
- * - Guidance on OOP design patterns in JavaScript
- * - Suggestions for layout algorithms and refactoring
- * - Assistance with writing JSDoc-style comments
+ * - Clarifying how to organize the program using JavaScript classes (AppController,
+ *   UserInterface, TaskManager, GameEngine, FormValidator)
+ * - Suggesting approaches for laying out buttons in rows and preventing overflow
+ * - Providing examples of JSDoc-style comments
  *
- * All implementation decisions, testing, debugging, and final integration were
- * completed by me, Andrew Hwang.
- * 
+ * All code logic, event handling, debugging, testing, folder structure, and final
+ * implementation decisions were written and verified by me.
+ *
+ * I fully understand every part of this program and can explain its functionality.
+ *
  * @author Andrew Hwang
  * @version 1.0
  */
