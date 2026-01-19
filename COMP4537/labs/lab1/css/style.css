@@ -1,0 +1,109 @@
+/* No AI content generated in this file. */
+
+.parent-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.child-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.lab-one-title {
+    padding-bottom: 20px;
+}
+
+.writer-reader-hyperlink {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.parent-container-writer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.child-container-writer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+
+.child-child-container-writer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+textarea {
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    font-size: 16px;
+    height: 100px;
+    padding: 10px;
+    margin: 7px;
+    resize: none;
+}
+
+button {
+    align-items: center;
+    justify-content: center;
+}
+
+#notesContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.writer-add-button {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.writer-go-back-hyperlink {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.parent-container-reader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.child-container-reader {
+    display: flex;
+    flex-direction: column;
+}
+
+#readerNotesContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.child-child-container-reader {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 10px;
+}
